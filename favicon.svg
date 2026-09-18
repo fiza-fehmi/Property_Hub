@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="#B68D2C"/>
+  
+  <!-- House shape -->
+  <!-- Roof -->
+  <path d="M32 14 L48 28 L45 28 L45 48 L19 48 L19 28 L16 28 Z" fill="#2E2E2E"/>
+  
+  <!-- House body -->
+  <rect x="21" y="28" width="22" height="20" fill="#FEFAE0"/>
+  
+  <!-- Door -->
+  <rect x="28" y="36" width="8" height="12" fill="#2E2E2E" rx="1"/>
+  
+  <!-- Windows -->
+  <rect x="24" y="32" width="6" height="6" fill="#B68D2C"/>
+  <rect x="34" y="32" width="6" height="6" fill="#B68D2C"/>
+  
+  <!-- Door knob -->
+  <circle cx="34" cy="42" r="0.8" fill="#B68D2C"/>
+</svg>
